@@ -51,7 +51,7 @@ Average_Age = float(Total) / 10
 print("The average age of student is " + str(Average_Age))
 print("=============================================") 
 
-#Age of All Student 2: Inout is already provided 
+#Age of All Student 2: Input is already provided 
 
 Student_Ages = [19,19,19,18,17,16,19,20,17,16]
 
